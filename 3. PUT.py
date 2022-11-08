@@ -6,7 +6,7 @@ url = "http://httpbin.org/put"
 
 # // Send the http request
 # //
-# // A post request is used to update data to whatever 
+# // A PUT request is used to update data to whatever 
 # //    url you're sending the request to
 # //    
 # //    PUT is used by API's
