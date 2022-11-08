@@ -17,3 +17,6 @@ print(r.status_code)
 
 # // Print the response body
 print(r.content)
+
+# // Print the response json
+print(r.json())
