@@ -6,7 +6,7 @@ url = "http://httpbin.org/post"
 
 # // Send the http request
 # //
-# // A post request is used to add new data to whatever 
+# // A POST request is used to add new data to whatever 
 # //    url you're sending the request to
 # //    
 # //    POST is used by API's
@@ -23,3 +23,6 @@ print(r.status_code)
 
 # // Print the response body
 print(r.content)
+
+# // Print the response json
+print(r.json())
