@@ -1,4 +1,6 @@
-from threading import *
+import threading, requests
+
+# // With threading you can run two functions at the same time!
 
 
 # // Function to be ran by the threads
