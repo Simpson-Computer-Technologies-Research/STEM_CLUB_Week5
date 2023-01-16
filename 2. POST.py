@@ -6,7 +6,7 @@ url = "http://httpbin.org/post"
 
 # // Send the http request
 # //
-# // A POST request is used to add new data to whatever 
+# // A POST request is used submit data to whatever 
 # //    url you're sending the request to
 # //    
 # //    POST is used by API's
